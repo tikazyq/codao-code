@@ -1,0 +1,5 @@
+.idea/
+venv/
+vendor/
+tmp/
+node_modules/
