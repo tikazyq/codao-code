@@ -1,0 +1,6 @@
+venv/
+.idea/
+build/
+bdist/
+dist/
+tmp/
