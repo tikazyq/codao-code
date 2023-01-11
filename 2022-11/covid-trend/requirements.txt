@@ -1,0 +1,6 @@
+pandas
+bs4
+requests
+pandas
+jupyter
+seaborn
