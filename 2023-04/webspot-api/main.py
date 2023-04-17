@@ -20,7 +20,8 @@ res = requests.post(f'{api_endpoint}/links', json={
     # 'url': 'https://www.cnblogs.com/',
     # 'url': 'https://techcrunch.com/',
     # 'url': 'https://www.g3mv.com/search/lw?q=%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2&t=0&year=2023',
-    'url': 'https://www.npr.org/sections/news/',
+    # 'url': 'https://www.npr.org/sections/news/',
+    'url': 'https://www.nytimes.com/',
     # 'html': '<html>...</html>',
 })
 results = res.json()
